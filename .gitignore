@@ -12,3 +12,4 @@ Intermediate/
 **.vcxproj
 **.vcxproj.filters
 **.vcxproj.user
+*.user
